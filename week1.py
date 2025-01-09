@@ -3,8 +3,8 @@ import pandas as pd
 import os
 
 # Load your dataset (update the path to your CSV file)
-csv_file = r"C:\Users\abilp\movies_with_ratings.csv"  # Replace with the path to your CSV file
-image_folder = r"C:\Users\abilp\Desktop\archive\Multi_Label_dataset\Images"  # Replace with your image folder path
+csv_file = "movies_with_ratings.csv"  # Replace with the path to your CSV file
+image_folder = "Images"  # Replace with your image folder path
 
 # Read the dataset
 try:
